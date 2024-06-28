@@ -1,0 +1,14 @@
+Git branching
+
+1. Create a new repo in github named as 'BranchingPractice'
+2. Clone the repo to local drive.
+3. Sync the folder to vs code.      (File-> Add folder to workspace)
+4. Create file_branch.txt
+5. Commit file_branch.txt to main branch in github.
+6. Create new branch in CLI with name 'video'
+7. Checkout the new branch.
+8. Create video_branch.txt
+9. Stage the file video_branch.txt (add the file)
+10. Commit the above file to 'video' branch on github.
+
+Review markdown and use markdown syntax

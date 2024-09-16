@@ -1,3 +1,11 @@
 Remotework_28June
 
+<<<<<<< Updated upstream
 Adding from gitrepo
+=======
+<<<<<<< HEAD
+Adding data for example
+=======
+Adding from gitrepo
+>>>>>>> a39a2b15c5b7e9ee09b8664891a9199a13ed3dcc
+>>>>>>> Stashed changes
